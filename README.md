@@ -15,7 +15,7 @@ As with any issues, please follow these rules to ensure your issue gets tracked 
 
 ## Contact Form
 
-Please follow the above rules to determine if you need to use [this form](https://contact.qsie.dev/)
+Please follow the above rules to determine if you need to use [this form](https://contact.qsie.dev/).
 
 ## Qsie's Website
 
